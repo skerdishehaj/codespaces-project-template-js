@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "the-wild-oasis",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "React Course Project: \"The Wild Oasis\" is a small boutique hotel with 8 luxurious wooden cabins . They need a custom-built application to manage everything about the hotel: bookings, cabins and guests. This is the internal application used inside the hotel to check in guests as they arrive.",
+    url: "https://github.com/skerdishehaj/the-wild-oasis",
   },
   {
-    title: "Web Development for Beginners",
+    title: "usePopcorn",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Simple React Project to manage movies watchlist. It uses the Movie Database API to fetch movies and display them in a list. It also allows you to add movies to your watchlist and mark them as watched.",
+    url: "https://github.com/skerdishehaj/usePopcorn",
   },
   {
-    title: "My Resume Site",
+    title: "fast-react-pizza",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Simple React Project to manage a pizza restaurant.",
+    url: "https://github.com/skerdishehaj/fast-react-pizza",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "world-wise",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Users can register all places they have visited and see them on a map.",
+    url: "https://github.com/skerdishehaj/world-wise",
   },
 ];
 
