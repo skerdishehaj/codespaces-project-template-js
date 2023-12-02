@@ -3,11 +3,11 @@
   "version": "1.0.0",
   "description": "Educator JS Codespace Template",
   "source": "src/index.html",
-  "homepage": "https://skerdishehaj.github.io/portfolio",
+  "homepage": "https://skerdishehaj.github.io/portofolio-template",
   "scripts": {
     "start": "parcel",
     "build": "parcel build",
-    "build-gh": "parcel build --public-url 'https://skerdishehaj.github.io/portfolio'",
+    "build-gh": "parcel build --public-url 'https://skerdishehaj.github.io/portofolio-template'",
     "predeploy": "npm run build-gh",
     "deploy": "gh-pages -d dist"
   },
